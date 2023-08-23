@@ -1,7 +1,7 @@
 echo ""
 echo ""
 echo ""
-echo "The script is  made by AD TECH"
+echo "The script is  made by DheOutSiderz"
 echo ""
 echo ""
 echo ""
